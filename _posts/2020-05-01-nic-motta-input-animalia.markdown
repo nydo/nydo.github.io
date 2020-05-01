@@ -10,7 +10,7 @@ img_4:
 img_5:
 video_1: dbKz7gRMIfE #solo el link con letras
 sonido_1:
-tags: [Instalacion, Robotica, Arduino, Mapping, Programacion, Engranajes]
+tags: [Instalacion, Robotica, Arduino, Mapping, Programacion]
 author: # Add name author (optional)
 artista: Nic Motta
 contacto_facebook:
