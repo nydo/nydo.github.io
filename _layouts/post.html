@@ -28,7 +28,7 @@ layout: default
             {% endif %}
 
             {% if page.contacto_mail %}
-              <li> <h4>{{page.contacto_mail}}</h4>
+              <li> <a href="{{page.contacto_mail}}">Página Web</a>
             {% endif %}
 
             {% if page.contacto_web %}
@@ -54,7 +54,7 @@ layout: default
 
         <div class="page-footer">
           <div class="page-tag">
-            <span>Palabras clave:</span>
+            <span>Categorías:</span>
             {% for tag in page.tags %}
             <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">| {{ tag }}</a>
             {% endfor %}
