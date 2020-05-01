@@ -22,6 +22,7 @@ contacto_web:
 `BIO`
 
 Ilustrador/Escritor
+
 Estudió en la Universidad Nacional de las Artes (UNA). Su producción se basa en la ilustración digital y la animación en constante diálogo entre lo figurativo y lo abstracto, empleando el lenguaje literario como mediador entre ambos mundos. La ciencia ficción y la construcción de una identidad generacional en el siglo XXI son sus temas predilectos, empleando formatos indepndientes como el fanzine para distribuir sus producciones. En el año 2017 participó en la muestra "Manifestos de Palabras" con su libro "Los Devoramundos" en el Museo de San Fernando, y en el 2019 estuvo seleccionado en la categoría Audiovisual de Ficcion con el corto animado "El Brote" en el Festival FAUNA en el Centro Cultural San Martin.
 Actualmente se encuentra terminando una antología de collage y poesía donde recopila diferentes fragmentos escritos entre 2016 y 2020.
 
