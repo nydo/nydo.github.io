@@ -1,0 +1,47 @@
+title: NYDO.
+email: nydo.info@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: NYDO. # add your name
+author-pic: logo_nydo_2.jpg
+about-author: Es un proyecto iniciado frente a la necesidad de mostrar y dar a conocer las producciones artisticas.
+creador: Nic Motta
+colaboradores: Nico Scardamaglia - Sebas Irigoytia
+contacto_creador: nicmotta_
+contacto_col1: a
+contacto_col2: a
+
+
+# Contact links
+email: # Add your Email address
+website: # Add your website, do not add http://
+github: artemsheludko # Add your Github handle
+instagram: nydo.io
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 1000
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]

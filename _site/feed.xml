@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-01T11:53:04-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NYDO.</title><subtitle></subtitle><author><name>NYDO.</name></author><entry><title type="html">input_animalia</title><link href="http://localhost:4000/nic-motta-input-animalia/" rel="alternate" type="text/html" title="input_animalia" /><published>2020-04-30T10:32:20-03:00</published><updated>2020-04-30T10:32:20-03:00</updated><id>http://localhost:4000/nic-motta-input-animalia</id><content type="html" xml:base="http://localhost:4000/nic-motta-input-animalia/">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;BIO&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Artista electro/digital – Buenos Aires, Argentina&lt;/p&gt;
+
+&lt;p&gt;En proceso de tesis de la Licenciatura en Artes Visuales (UNA) y actualmente cursando la Maestría en Tecnología y Estética de las Artes Electrónicas (UNTREF)&lt;/p&gt;
+
+&lt;p&gt;Se desarrolla dentro de la programación visual, modelado e impresión 3D y el video mapping. Incursionó en el sonido y Arduino para desarrollar interfaces.
+Le interesa la relación entre lo visual y lo sonoro, encontrar y analizar la geometría de estos universos potenciado por un desarrollo electro-digital detras.
+Actualmente aborda la inteligencia artificial y algoritmos para conectar y representar diferentes espacios a través del dato numérico.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ABSTRACT&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;A la idea de expansión y funcionamiento de la hormiga argentina la encuentro muy cercana al comportamiento de los humanos en acumular territorio y recursos naturales. Es así que empiezo a buscar similitudes entre el sistema de expansión de las hormigas, y el de los humanos. Busco poner en diálogo dos conceptos, por un lado la naturaleza de las hormigas de acumlar alimento y procrear instintivamente y ampliar su supercolonia. Y por otro, el accionar de las grandes colonias humanas que buscan expandirse sin tomar en cuenta el daño que le hacen a las demás “colonias humanas” que no se encuentran dentro de su territorio.&lt;/p&gt;
+
+&lt;p&gt;A partir de ahí, desde entonces, empecé a trabajar la idea de generar muchos mecanismos que estén conectados continuamente a través del sonido, o una señal ultrasónica. Generando una interacción entre ellos. De ahora en adelante, cada mecanismo lo llamaremos módulo. Un módulo es la representación conceptual de una colonia de hormigas argentinas, pero al mismo tiempo también de un territorio en específico. Los dispositivos mecatrónicos son acompañados por un mapping interactivo.&lt;/p&gt;
+
+&lt;p&gt;El funcionamiento de la proyección en el cual los módulos se encienden, una animación en tiempo real ilumina el módulo por completo con un pentágono blanco, despegando de la pared y denotando su giro. Cada vez que un módulo enciende e inicie su ciclo está acompañado por un pentágono que se irán uniendo con líneas, similar a líneas magnéticas, creando así una gran red de nodos unidos (sistema Top-down) y funcionando al mismo tiempo, esta unión de nodos hace referencia a la expansión de las colonias, tanto de hormigas como humanas, y la creación de una supercolonia.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DISPOSITIVO&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Instalación de estructura mecatrónica con engranajes, mapping en tiempo real. Análisis de geometria.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;MEDIDAS&lt;/code&gt;&lt;/p&gt;</content><author><name>NYDO.</name></author><category term="Instalacion" /><category term="Robotica" /><category term="Arduino" /><category term="Mapping" /><category term="Programacion" /><category term="Engranajes" /><summary type="html">BIO</summary></entry></feed>
