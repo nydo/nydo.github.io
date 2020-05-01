@@ -1,45 +1,32 @@
 ---
 layout: post
-title: input_animalia # titulo de la obra
-date: 2020-04-30 13:32:20 # solo cambiar mes y dia
+title: Matar a Los Tiranxs () # titulo de la obra
+date: 2020-04-30 18:32:00 # solo cambiar mes y dia
 description: # Add post description (optional)
-img: nic_motta_input_animalia_1.jpg # imagen de portada
-img_2: nic_motta_input_animalia_3.jpg
-img_3:
-img_4:
-img_5:
-video_1: dbKz7gRMIfE #solo el link con letras
+img: Sebastian_Irigoytia_mataralostiranxs_1.jpg # imagen de portada
+img_2: Sebastian_Irigoytia_mataralostiranxs_2.jpg
+img_3: Sebastian_Irigoytia_mataralostiranxs_3.jpg
+img_4: Sebastian_Irigoytia_mataralostiranxs_4.jpg
+img_5: Sebastian_Irigoytia_mataralostiranxs_5.gif
+video_1: #solo el link con letras
 sonido_1:
-tags: [Instalacion, Robotica, Arduino, Mapping, Programacion, Engranajes]
+tags: [Comic, Programacion, Narracion, Ilustracion]
 author: # Add name author (optional)
-artista: Nic Motta
+artista: Sebastián Irigoytia
 contacto_facebook:
-contacto_instagram: nicmotta_
+contacto_instagram: secaz.21
 contacto_mail:
-contacto_web: www.nic-motta.com
+contacto_web: mataralostiranos.github.io
 ---
 
 `BIO`
 
-Artista electro/digital -- Buenos Aires, Argentina
-
-En proceso de tesis de la Licenciatura en Artes Visuales (UNA) y actualmente cursando la Maestría en Tecnología y Estética de las Artes Electrónicas (UNTREF)
-
-Se desarrolla dentro de la programación visual, modelado e impresión 3D y el video mapping. Incursionó en el sonido y Arduino para desarrollar interfaces.
-Le interesa la relación entre lo visual y lo sonoro, encontrar y analizar la geometría de estos universos potenciado por un desarrollo electro-digital detras.
-Actualmente aborda la inteligencia artificial y algoritmos para conectar y representar diferentes espacios a través del dato numérico.
+Termina sus estudios secundarios en el colegio Nuestras Raíces, recibiéndose de Bachiller en arte. En 2013 gana el primer premio de pintura en un concurso intercolegial de Tigre.
+Estudia dibujo y digitalización de imágenes desde el 2014 en la Universidad Nacional del Arte. En 2016 participa en la muestra Creación, Interacción, Reacción de Gabriela Hlowackij, y en la muestra de Sitio Especifico organizada por la Cátedra Flores en el Club de Artesanos de San Fernando.
+La historieta y el fanzine siempre fueron su mayor interés. En 2018 participa de ferias independientes con un grupo organizado con otros colegas que conforman el colectivo “Unicornios de Papel”. Participó de Pinto Tigre 2 y fue artista seleccionado en el Salón Primavera de Artistas de Tigre en la Fundación Sudestada entre 2018 y 2019.
 
 
 `ABSTRACT`
 
-A la idea de expansión y funcionamiento de la hormiga argentina la encuentro muy cercana al comportamiento de los humanos en acumular territorio y recursos naturales. Es así que empiezo a buscar similitudes entre el sistema de expansión de las hormigas, y el de los humanos. Busco poner en diálogo dos conceptos, por un lado la naturaleza de las hormigas de acumlar alimento y procrear instintivamente y ampliar su supercolonia. Y por otro, el accionar de las grandes colonias humanas que buscan expandirse sin tomar en cuenta el daño que le hacen a las demás “colonias humanas” que no se encuentran dentro de su territorio.
-
-A partir de ahí, desde entonces, empecé a trabajar la idea de generar muchos mecanismos que estén conectados continuamente a través del sonido, o una señal ultrasónica. Generando una interacción entre ellos. De ahora en adelante, cada mecanismo lo llamaremos módulo. Un módulo es la representación conceptual de una colonia de hormigas argentinas, pero al mismo tiempo también de un territorio en específico. Los dispositivos mecatrónicos son acompañados por un mapping interactivo.
-
-El funcionamiento de la proyección en el cual los módulos se encienden, una animación en tiempo real ilumina el módulo por completo con un pentágono blanco, despegando de la pared y denotando su giro. Cada vez que un módulo enciende e inicie su ciclo está acompañado por un pentágono que se irán uniendo con líneas, similar a líneas magnéticas, creando así una gran red de nodos unidos (sistema Top-down) y funcionando al mismo tiempo, esta unión de nodos hace referencia a la expansión de las colonias, tanto de hormigas como humanas, y la creación de una supercolonia.
-
-`DISPOSITIVO`
-
-Instalación de estructura mecatrónica con engranajes, mapping en tiempo real. Análisis de geometria.
-
-`MEDIDAS`
+"Matar a Los Tiranxs ()" es un web cómic no lineal del genero de ciencia ficción, el cual aborda conceptos como el tiempo circular y el existencialismo.
+Los capítulos aparecen aleatoriamente, buscando encontrarse con un espectador que desempeñe un papel activo y que reconstruya la historia sin que esta este contada linealmente, denunciando así los límites de la narrativa tracional occidental. A su vez, el enfoque minimalista busca diferenciarse de la imagen barroca y sobrecargada que presenta el cómic hoy en día.
