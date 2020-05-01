@@ -16,7 +16,7 @@ artista: Magali Mc Grath
 contacto_facebook:
 contacto_instagram: magamcgrath
 contacto_mail:
-contacto_web: http://tiempoheredado.com/
+contacto_web: www.tiempoheredado.com/
 ---
 
 `BIO`
