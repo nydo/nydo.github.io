@@ -10,7 +10,7 @@ img_4: Sebastian_Irigoytia_mataralostiranxs_4.jpg
 img_5: Sebastian_Irigoytia_mataralostiranxs_5.gif
 video_1: #solo el link con letras
 sonido_1:
-tags: [Comic, Programacion, Narracion, Ilustracion]
+tags: [Comic, Programacion, Narracion, Ilustracion, Dibujo]
 author: # Add name author (optional)
 artista: Sebastián Irigoytia
 contacto_facebook:
