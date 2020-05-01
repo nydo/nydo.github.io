@@ -5,8 +5,8 @@ date: 2020-05-01 18:06:00 # solo cambiar mes y dia
 description: # Add post description (optional)
 img: Nico_Scarda_ElInvisible_1.jpg # imagen de portada
 img_2: Nico_Scarda_ElInvisible_2.jpg
-img_3: Nico_Scarda_ElInvisible_2.jpg
-img_4: Nico_Scarda_ElInvisible_2.jpg
+img_3: Nico_Scarda_ElInvisible_3.jpg
+img_4: Nico_Scarda_ElInvisible_4.jpg
 img_5:
 video_1: #solo el link con letras
 sonido_1:
