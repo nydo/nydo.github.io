@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matar a Los Tiranxs () # titulo de la obra
-date: 2020-04-30 18:32:00 # solo cambiar mes y dia
+date: 2020-05-01 18:32:00 # solo cambiar mes y dia
 description: # Add post description (optional)
 img: Sebastian_Irigoytia_mataralostiranxs_1.jpg # imagen de portada
 img_2: Sebastian_Irigoytia_mataralostiranxs_2.jpg
