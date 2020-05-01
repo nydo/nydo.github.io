@@ -16,7 +16,7 @@ artista: Nic Motta
 contacto_facebook:
 contacto_instagram: nicmotta_
 contacto_mail:
-contacto_web: http://www.nic-motta.com
+contacto_web: www.nic-motta.com
 ---
 
 `BIO`
