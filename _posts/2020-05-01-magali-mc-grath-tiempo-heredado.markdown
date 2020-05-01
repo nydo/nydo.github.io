@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiempo Heredado # titulo de la obra
-date: 2020-05-01 13:32:20 # solo cambiar mes y dia
+date: 2020-05-01 16:32:20 # solo cambiar mes y dia
 description: # Add post description (optional)
 img: Magali_Mc_Grath_Rodolfo_1.jpg # imagen de portada
 img_2: Magali_Mc_Grath_Miguel_y_Aida_2.jpg
