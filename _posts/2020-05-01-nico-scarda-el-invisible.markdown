@@ -10,7 +10,7 @@ img_4: Nico_Scarda_ElInvisible_4.jpg
 img_5:
 video_1: #solo el link con letras
 sonido_1:
-tags: [Comic, Ilustración, Narración]
+tags: [Comic, Ilustracion, Narracion]
 author: # Add name author (optional)
 artista: Nico Scarda
 contacto_facebook:
