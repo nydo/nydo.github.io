@@ -1,7 +1,7 @@
 ---
 layout: post
 title: input_animalia # titulo de la obra
-date: 2020-04-30 13:32:20 # solo cambiar mes y dia
+date: 2020-05-01 13:32:20 # solo cambiar mes y dia
 description: # Add post description (optional)
 img: nic_motta_input_animalia_1.jpg # imagen de portada
 img_2: nic_motta_input_animalia_3.jpg
