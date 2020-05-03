@@ -19,7 +19,7 @@ contacto_mail:
 contacto_web: www.nic-motta.com
 ---
 
-`BIO`
+## Bio
 
 Artista electro/digital -- Buenos Aires, Argentina
 
@@ -30,7 +30,7 @@ Le interesa la relación entre lo visual y lo sonoro, encontrar y analizar la ge
 Actualmente aborda la inteligencia artificial y algoritmos para conectar y representar diferentes espacios a través del dato numérico.
 
 
-`ABSTRACT`
+## Abstract
 
 A la idea de expansión y funcionamiento de la hormiga argentina la encuentro muy cercana al comportamiento de los humanos en acumular territorio y recursos naturales. Es así que empiezo a buscar similitudes entre el sistema de expansión de las hormigas, y el de los humanos. Busco poner en diálogo dos conceptos, por un lado la naturaleza de las hormigas de acumlar alimento y procrear instintivamente y ampliar su supercolonia. Y por otro, el accionar de las grandes colonias humanas que buscan expandirse sin tomar en cuenta el daño que le hacen a las demás “colonias humanas” que no se encuentran dentro de su territorio.
 
@@ -38,8 +38,6 @@ A partir de ahí, desde entonces, empecé a trabajar la idea de generar muchos m
 
 El funcionamiento de la proyección en el cual los módulos se encienden, una animación en tiempo real ilumina el módulo por completo con un pentágono blanco, despegando de la pared y denotando su giro. Cada vez que un módulo enciende e inicie su ciclo está acompañado por un pentágono que se irán uniendo con líneas, similar a líneas magnéticas, creando así una gran red de nodos unidos (sistema Top-down) y funcionando al mismo tiempo, esta unión de nodos hace referencia a la expansión de las colonias, tanto de hormigas como humanas, y la creación de una supercolonia.
 
-`DISPOSITIVO`
+## Dispositivo
 
 Instalación de estructura mecatrónica con engranajes, mapping en tiempo real. Análisis de geometria.
-
-`MEDIDAS`
