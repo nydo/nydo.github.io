@@ -39,7 +39,9 @@ permalink: /formar_parte/
       <p>Una vez por semana actualizaremos las obras y lo anunciaremos en Instagram.</p>
       <p><b>¿Existe un límite de obra por artista?</b></p>
       <p>¡No! Podés enviarnos todas las que quieras.</p>
-      <a href="https://instagram.com/{{site.instagram}}">@{{site.instagram}}</a>
+      {% if site.instagram %}
+        <li class="instagram"><a href="https://instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+      {% else %}
     </section> <!-- End About Body-->
   </div> <!-- End About Container -->
 </div> <!-- End Small Wrapper -->
