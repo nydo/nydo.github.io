@@ -19,14 +19,14 @@ contacto_mail:
 contacto_web: mataralostiranos.github.io
 ---
 
-`BIO`
+## Bio
 
 Termina sus estudios secundarios en el colegio Nuestras Raíces, recibiéndose de Bachiller en arte. En 2013 gana el primer premio de pintura en un concurso intercolegial de Tigre.
 Estudia dibujo y digitalización de imágenes desde el 2014 en la Universidad Nacional del Arte. En 2016 participa en la muestra Creación, Interacción, Reacción de Gabriela Hlowackij, y en la muestra de Sitio Especifico organizada por la Cátedra Flores en el Club de Artesanos de San Fernando.
 La historieta y el fanzine siempre fueron su mayor interés. En 2018 participa de ferias independientes con un grupo organizado con otros colegas que conforman el colectivo “Unicornios de Papel”. Participó de Pinto Tigre 2 y fue artista seleccionado en el Salón Primavera de Artistas de Tigre en la Fundación Sudestada entre 2018 y 2019.
 
 
-`ABSTRACT`
+## Abstract
 
 "Matar a Los Tiranxs ()" es un web cómic no lineal del genero de ciencia ficción, el cual aborda conceptos como el tiempo circular y el existencialismo.
 Los capítulos aparecen aleatoriamente, buscando encontrarse con un espectador que desempeñe un papel activo y que reconstruya la historia sin que esta este contada linealmente, denunciando así los límites de la narrativa tracional occidental. A su vez, el enfoque minimalista busca diferenciarse de la imagen barroca y sobrecargada que presenta el cómic hoy en día.
