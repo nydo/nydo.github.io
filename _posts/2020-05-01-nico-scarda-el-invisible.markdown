@@ -19,7 +19,7 @@ contacto_mail:
 contacto_web:
 ---
 
-`BIO`
+## Bio
 
 Ilustrador/Escritor
 
@@ -29,7 +29,7 @@ En el año 2017 participó en la muestra "Manifestos de Palabras" con su libro "
 
 
 
-`ABSTRACT`
+## Abstract
 
 ¿Cómo se construye la identidad a partir de una tierra arrasada? El Invisible plantea el viaje de un solitario personaje y sus observaciones y descubrimientos a medida que se adentra en la tierra que antiguamente sirvió de cobijo a la humanidad.
 
