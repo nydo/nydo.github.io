@@ -16,7 +16,7 @@ artista: Laila Baldelli
 contacto_facebook:
 contacto_instagram: pirou.ettes
 contacto_mail:
-contacto_web: https://www.behance.net/loilo
+contacto_web: www.behance.net/loilo
 ---
 
 ## Bio
