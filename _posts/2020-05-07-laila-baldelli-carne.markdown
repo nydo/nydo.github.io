@@ -3,7 +3,7 @@ layout: post
 title: Carne # titulo de la obra
 date: 2020-05-07 00:09:00 # solo cambiar mes y dia
 description: # Add post description (optional)
-img: Laila-Baldelli-Carne-1.jpeg # imagen de portada
+img: Laila-Baldelli-Carne-1.jpg # imagen de portada
 img_2: Laila-Baldelli-Carne-2.jpg
 img_3: Laila-Baldelli-Carne-3.jpg
 img_4: Laila-Baldelli-Carne-4.jpg
