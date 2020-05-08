@@ -12,7 +12,7 @@ video_1: #solo el link con letras
 sonido_1:
 tags: [Comic, Programacion, Narracion, Ilustracion, Dibujo]
 author: # Add name author (optional)
-artista: Sebastián Irigoytia
+artista: Sebas Irigoytia
 contacto_facebook:
 contacto_instagram: secaz.21
 contacto_mail:
