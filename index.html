@@ -13,7 +13,7 @@ layout: home-page
         <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
         {% endfor %}
         <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><p class="post-card-title">{{post.artista}}</p></a>
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h5 class="tag">{{post.artista}}</h5></a>
       </div>
 
     </div>
