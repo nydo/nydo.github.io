@@ -30,4 +30,6 @@ En cuanto a mis proyectos personales, tengo un catálogo amplio de ilustraciones
 
 ## Abstract
 
-Se trata de una serie de ilustraciones ambientadas en el año 1868 invitándonos a imaginar diferentes situaciones que se podrían estar dando en un mismo día pero en diferentes partes del mundo. Pretendo que sea la primera serie de varias más ya que el siglo XIX me despierta bastante interés con sus matices y sus cambios constantes.
+Se trata de una serie de ilustraciones ambientadas en el año 1868, invitándonos a imaginar diferentes situaciones que se podrían estar dando en un mismo día pero en diferentes partes del mundo. Pretendo que sea la primera serie de varias más ya que el siglo XIX me despierta bastante interés con sus matices y sus cambios constantes.
+
+
