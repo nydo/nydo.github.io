@@ -6,23 +6,25 @@ permalink: /about/
 <div class="small-wrapper">
   <div class="about-container">
     <section class="about-header">
-      <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" width="15%" alt="">
-
-      <p class="subtitle">{{site.about-author}}</p>
+      <section class="about-body">
       <hr>
-      <p class="subtitle"><b>Creador: </b>{{site.creador}}</p>
-      <p class="subtitle"><b>Staff: </b>{{site.colaboradores}}</p>
-    </section>
-    <section class="about-body">
+      <h2>Preguntas frecuentes:</h2>
+      <p><b>¿Se necesita dinero para esta en NYDO?</b></p>
+      <p>¡No! NYDO es totalmente gratuito y abierto a todos.</p>
+      <p><b>¿Con qué frecuencia se actualiza la página?</b></p>
+      <p>Una vez por semana actualizaremos las obras y lo anunciaremos en Instagram.</p>
+      <p><b>¿Existe un límite de obra por artista?</b></p>
+      <p>¡No! Podés enviarnos todas las que quieras.</p>
+      
+      <section class="about-body">
       <ul class="contact-list">
-
-      {% if site.instagram %}
-        <li class="instagram"><a href="https://instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+       {% if site.instagram %}
+        <div class="instagram"><a href="https://instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></div>
       {% else %}
-        <li class="instagram"><a href="https://instagram.com/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <div class="instagram"><a href="https://instagram.com/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
       {% endif %}
-
       </ul>
+      </section>
     </section> <!-- End About Body-->
   </div> <!-- End About Container -->
 </div> <!-- End Small Wrapper -->
