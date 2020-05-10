@@ -1477,6 +1477,12 @@ pre code {
   margin-bottom: 30px;
 }
 
+.about-header-fp {
+  position: relative;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
 .about-header:after {
   content: "";
   position: absolute;
