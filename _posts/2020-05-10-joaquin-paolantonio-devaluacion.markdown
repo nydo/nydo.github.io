@@ -10,7 +10,7 @@ img_4: joaquin_paolantonio_devaluacion_4.jpg
 img_5: joaquin_paolantonio_devaluacion_5.jpg
 video_1: #solo el link con letras
 sonido_1:
-tags: [Dibujo, Ilustracion, Comic, Intervencion, Arte Publico]
+tags: [Dibujo, Ilustracion, Comic, Intervencion]
 author: # Add name author (optional)
 artista: Jasco es un Asco
 contacto_facebook: 
