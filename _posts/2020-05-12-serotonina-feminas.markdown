@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Féminas # titulo de la obra
-date: 2020-05-10 00:09:00 # solo cambiar mes y dia
+date: 2020-05-12 00:09:00 # solo cambiar mes y dia
 description: # Add post description (optional)
 img: serotonina-feminas-1.jpg # imagen de portada
 img_2: serotonina-feminas-2.jpg
