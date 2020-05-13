@@ -7,7 +7,7 @@ img: gi-gioia-somosespejo-1.jpg # imagen de portada
 img_2: gi-gioia-somosespejo-2.jpg
 img_3: gi-gioia-somosespejo-3.jpg
 img_4: gi-gioia-somosespejo-4.jpg
-img_5:
+img_5: gi-gioia-somosespejo-5.jpg
 video_1: #solo el link con letras
 sonido_1:
 tags: [Dibujo, Pintura, Retrato, Tecnica mixta]
