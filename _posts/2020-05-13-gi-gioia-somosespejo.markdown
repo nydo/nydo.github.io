@@ -26,6 +26,7 @@ Me conmueve la profundidad de las miradas, los colores, y la gestualidad de las 
 
 Formación Académica
 
+
 2015 – UNA (Universidad Nacional de Artes – ex IUNA) – Artes Plásticas 
 
 2013 - Academia de Bellas Artes de Martín Soria – Santiago de Chile - Vitacura 
@@ -34,6 +35,7 @@ Formación Académica
 
 
 Exposiciones de Arte
+
 
 Mayo 2019 / UCES - expo por 1 mes 
 
