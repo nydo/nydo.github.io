@@ -25,29 +25,49 @@ Pinto desde hace mucho tiempo como mi actividad principal. Me encuentro en const
 Me conmueve la profundidad de las miradas, los colores, y la gestualidad de las pinceladas. Mi obra va desde lo abstracto hacia lo figurativo constantemente. Elijo usar óleo o acrílicos según cual sea la obra.
 
 Formación Académica
-2015 – UNA (Universidad Nacional de Artes – ex IUNA) – Artes Plásticas
-2013 - Academia de Bellas Artes de Martín Soria – Santiago de Chile - Vitacura
+
+2015 – UNA (Universidad Nacional de Artes – ex IUNA) – Artes Plásticas 
+
+2013 - Academia de Bellas Artes de Martín Soria – Santiago de Chile - Vitacura 
+
 2004 - Universidad de Buenos Aires (Universidad de Buenos Aires - Argentina) - Diseñadora Gráfica
+
 
 Exposiciones de Arte
 
-Mayo 2019 / UCES - expo por 1 mes
-Abril 2019 / Howard Johnson de Escobar, expo por 2 meses.
-Abril 2019 / Docks del Tigre - expo por 3 semanas
-Diciembre 2019 / Norcenter - participación en Navidart
-Marzo 2018 / Salón Adan Buenos Aires – Pque. Chacabuco
-Marzo 2018 / Salón Turf – Expo Lunática - Hipodromo de Palermo
-Octubre 2017 / Muestra individual en el Centro Cultural Municipal Cosmopolita – Exaltación de la Cruz
-Septiembre 2017 / Muestra colectiva en el Centro Cultural Municipal Cosmopolita – Exaltación de la Cruz
-Marzo 2016 / Salón Adan Buenos Aires – Pque. Chacabuco
-Agosto 2015 / Exposición II Teorema – Concurso Divina Proporción.
-Marzo 2015 / Salón Adan Buenos Aires – Pque. Chacabuco
-Julio 2014 / Dante Alighieri Sede Centro
-Junio 2016 / Exposición I Teorema – Concurso Divina Proporción.
-Mayo 2014/ Espacio Escarlata – Palermo
-Septiembre 2014 / Arte en Feria – Talar de Pacheco
-Octubre 2012 / Galería Mónica Muñoz con Arte Grupo – Belgrano
-Mayo 2012/ Galería Mónica Muñoz con Arte Grupo – Belgrano 
+Mayo 2019 / UCES - expo por 1 mes 
+
+Abril 2019 / Howard Johnson de Escobar, expo por 2 meses. 
+
+Abril 2019 / Docks del Tigre - expo por 3 semanas 
+
+Diciembre 2019 / Norcenter - participación en Navidart 
+
+Marzo 2018 / Salón Adan Buenos Aires – Pque. Chacabuco 
+
+Marzo 2018 / Salón Turf – Expo Lunática - Hipodromo de Palermo 
+
+Octubre 2017 / Muestra individual en el Centro Cultural Municipal Cosmopolita – Exaltación de la Cruz 
+
+Septiembre 2017 / Muestra colectiva en el Centro Cultural Municipal Cosmopolita – Exaltación de la Cruz 
+
+Marzo 2016 / Salón Adan Buenos Aires – Pque. Chacabuco 
+
+Agosto 2015 / Exposición II Teorema – Concurso Divina Proporción. 
+
+Marzo 2015 / Salón Adan Buenos Aires – Pque. Chacabuco 
+
+Julio 2014 / Dante Alighieri Sede Centro 
+
+Junio 2016 / Exposición I Teorema – Concurso Divina Proporción. 
+
+Mayo 2014/ Espacio Escarlata – Palermo 
+
+Septiembre 2014 / Arte en Feria – Talar de Pacheco 
+
+Octubre 2012 / Galería Mónica Muñoz con Arte Grupo – Belgrano 
+
+Mayo 2012/ Galería Mónica Muñoz con Arte Grupo – Belgrano  
 
 
 ## Abstract
