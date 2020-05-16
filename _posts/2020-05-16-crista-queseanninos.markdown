@@ -51,7 +51,9 @@ mucho, causar algo en el otro.
 
 Me arme una frase hace mucho, la digo siempre y la pongo por todos lados, que resume todo
 lo que siento y todo lo dicho anteriormente en tres palabras, podría haber empezado por acá
-pero quería que lean mi historia. "Arte es Vida"
+pero quería que lean mi historia: "Arte es Vida"
+
+
 Gracias por el espacio.
 
 ## Abstract
