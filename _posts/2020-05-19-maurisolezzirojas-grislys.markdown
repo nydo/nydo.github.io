@@ -3,7 +3,7 @@ layout: post
 title: Grislys # titulo de la obra
 date: 2020-05-19 00:09:00 # solo cambiar mes y dia
 description: # Add post description (optional)
-img: mauri-solezzi-rojas-grislys-1.jpgbarbieri-clara-banquete-1.jpg # imagen de portada
+img: mauri-solezzi-rojas-grislys-1.jpg # imagen de portada
 img_2:  mauri-solezzi-rojas-grislys-2.jpg
 img_3:  mauri-solezzi-rojas-grislys-3.jpg
 img_4:  mauri-solezzi-rojas-grislys-4.jpeg
