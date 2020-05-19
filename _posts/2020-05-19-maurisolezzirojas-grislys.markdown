@@ -6,7 +6,7 @@ description: # Add post description (optional)
 img: mauri-solezzi-rojas-grislys-1.jpgbarbieri-clara-banquete-1.jpg # imagen de portada
 img_2:  mauri-solezzi-rojas-grislys-2.jpg
 img_3:  mauri-solezzi-rojas-grislys-3.jpg
-img_4:  mauri-solezzi-rojas-grislys-4.jpg
+img_4:  mauri-solezzi-rojas-grislys-4.jpeg
 img_5:  mauri-solezzi-rojas-grislys-5.jpg
 video_1: #solo el link con letras
 sonido_1:
