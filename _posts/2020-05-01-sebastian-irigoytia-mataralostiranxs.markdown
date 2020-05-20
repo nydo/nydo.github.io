@@ -28,5 +28,5 @@ La historieta y el fanzine siempre fueron su mayor interés. En 2018 participa d
 
 ## Abstract
 
-"Matar a Los Tiranxs ()" es un web cómic no lineal del genero de ciencia ficción, el cual aborda conceptos como el tiempo circular y el existencialismo.
-Los capítulos aparecen aleatoriamente, buscando encontrarse con un espectador que desempeñe un papel activo y que reconstruya la historia sin que esta este contada linealmente, denunciando así los límites de la narrativa tracional occidental. A su vez, el enfoque minimalista busca diferenciarse de la imagen barroca y sobrecargada que presenta el cómic hoy en día.
+"Matar a Los Tiranxs ()" es un web cómic no lineal del género de ciencia ficción, el cual aborda conceptos como el tiempo circular y el existencialismo.
+Los capítulos aparecen aleatoriamente, buscando encontrarse con un espectador que desempeñe un papel activo y que reconstruya la historia sin que esta este contada linealmente, denunciando así los límites de la narrativa tradicional occidental. A su vez, el enfoque minimalista busca diferenciarse de la imagen barroca y sobrecargada que presenta el cómic hoy en día.
