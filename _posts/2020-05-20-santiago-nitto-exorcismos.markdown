@@ -8,7 +8,7 @@ img_2: santiago-nitto-exorcismos-2.jpg
 img_3: santiago-nitto-exorcismos-3.jpg
 img_4: santiago-nitto-exorcismos-4.jpg
 img_5: santiago-nitto-exorcismos-5.jpg
-video_1: www.youtube.com/watch?v=4hMUrtNxNQo  #solo el link con letras
+video_1: 4hMUrtNxNQo  #solo el link con letras
 sonido_1:
 tags: [Collage, Intervencion, Apropiacion, Arte urbano]
 author: # Add name author (optional)
